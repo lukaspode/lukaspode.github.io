@@ -1,0 +1,47 @@
+body{
+    background-color: darkorange;
+    font-size: large;
+    color: beige;
+    font-family: Arial, Helvetica, sans-serif;
+    display:flex; 
+    flex-direction:column;
+    height:100vh;
+    margin:0; 
+}
+
+header{
+    min-height:50px;
+}
+footer{
+    min-height:50px;
+    margin-top:auto;
+    padding: 5px;
+    text-align: left;
+    border-top: solid 1px beige;
+}
+p{
+    background-color: beige;
+    color: darkorange;
+    padding: 10px;
+    margin: 10px;
+}
+
+#title{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 40px;
+    color: beige;
+    border: solid 2px beige;
+    border-radius: 5px;
+    padding: 55px;
+}
+
+.sub-title{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    color: beige;
+    padding: 15px;
+}
+.sub-title-box{
+
+}
